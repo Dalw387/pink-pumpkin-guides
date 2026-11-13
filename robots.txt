@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dalw387.github.io/pink-pumpkin-guides/sitemap.xml
