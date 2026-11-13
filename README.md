@@ -2,9 +2,11 @@
 
 Public static site of practical UK moving guides from [Pink Pumpkin Logistics](https://pinkpumpkinlogistics.co.uk).
 
-Live site: https://dalw387.github.io/pink-pumpkin-guides/
+Intended live site: https://dalw387.github.io/pink-pumpkin-guides/
 
-This is plain HTML and CSS on GitHub Pages (main branch). There is no build step.
+This is plain HTML and CSS. There is no build step. GitHub Pages should be set to deploy from the `main` branch, folder `/` (root).
+
+To turn Pages on (one time): open [Settings → Pages](https://github.com/Dalw387/pink-pumpkin-guides/settings/pages), choose **Deploy from a branch**, branch **main**, folder **/** (root), then Save. The site usually appears within a minute or two.
 
 ## Adding a future article
 
